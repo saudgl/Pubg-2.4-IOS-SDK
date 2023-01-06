@@ -1,0 +1,66 @@
+// Pubg 2.4 SDK Global
+// by saudgl
+// telegram https://t.me/pubg_dev
+// 6 Jan 2023
+Executable: /ShadowTrackerExtra.app/ShadowTrackerExtra
+__PAGEZERO Size: 0x100000000
+BaseAddress: 0x25fc000
+==========================
+GNames: 0x110857660
+Test Dumping First 10 Name Enteries
+GetNameByID(0): None
+GetNameByID(1): ByteProperty
+GetNameByID(2): IntProperty
+GetNameByID(3): BoolProperty
+GetNameByID(4): FloatProperty
+GetNameByID(5): ObjectProperty
+GetNameByID(6): NameProperty
+GetNameByID(7): DelegateProperty
+GetNameByID(8): DoubleProperty
+GetNameByID(9): ArrayProperty
+==========================
+ObjObjects: 0x10ab508b8
+ObjObjects Num: 156974
+ObjObjects Max: 450000
+==========================
+Saved packages: 218
+Saved classes: 4741
+Saved structs: 3408
+Saved enums: 1454
+Unsaved packages: [
+	_11,
+	T_chat_icon_kuaijieliaotian_png,
+	_5505143,
+	Lobby_Main_Tips_ChatRoom_UIBP,
+	Lobby_Chat_Bg,
+	T_Effect_Box,
+	None,
+	_12,
+	_5505143,
+	_5,
+	LOBBY_btn_mosi_2_png,
+	BoolProperty,
+	None,
+	_13,
+	T_chat_shuru_bg_png,
+	_5505143,
+	VH_test,
+	None,
+	shanguang_00105,
+	_12,
+	_1,
+	_13,
+	None,
+	_7536737,
+	JS_image_qipao_png,
+	None,
+	DX_Loop_R+T,
+	None,
+	MI_Lobby_NewEra_BG_H_02,
+	,
+	Lobby_Main_Wifi_UIBP,
+	GridPanel_PlayerInfoMenu
+]
+==========================
+Generating json...
+Functions: 21169
